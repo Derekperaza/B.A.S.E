@@ -1,0 +1,38 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+717785	0.0364785001018952	Hyphomicrobium sp. MC1	Hyphomicrobium	Hyphomicrobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	179.0	1.0	1.0
+111143	0.0368860811086203	Alishewanella fetalis	Alishewanella	Alteromonadaceae	Alteromonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	181.0	1.0	1.0
+2082188	0.02814783965017	Sphingobium sp. YG1	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	138.12144916338465	0.9987477169982049	0.9855072463768116
+190721	0.2117383329936825	Ralstonia insidiosa	Ralstonia	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1039.0	1.0	1.0
+10003458	0.0670470756062767	Providencia rettgeri	Providencia	Morganellaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	329.0	1.0	1.0
+1303	0.0829427348685551	Streptococcus oralis	Streptococcus	Streptococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	407.0	1.0	1.0
+73394	0.0234359078866924	Rudaea_sp.	Rudaea	Rhodanobacteraceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	115.0	1.0	1.0
+10003561	0.0291420419808436	Haemophilus parainfluenzae	Haemophilus	Pasteurellaceae	Pasteurellales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	143.0	1.0	1.0
+2509614	0.010224888165961	Rhodoferax sediminis	Rhodoferax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	50.17352623037085	1.0	1.0
+10003441	0.0315875280211942	Citrobacter koseri	Citrobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	155.0	1.0	1.0
+101564	0.016914611779091	Pseudomonas alcaliphila	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	83.0	1.0	1.0
+945844	0.0334216425335147	Massilia oculi	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	163.9999999119571	0.9999999994631528	0.926829268292683
+52021	0.0081516201345017	Halomonas desiderata	Halomonas	Halomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	40.0	1.0	1.0
+2057791	0.0118667673587223	Enterococcus sp. CR-Ec1	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	58.23022742925064	0.7804362542529985	0.0
+2060307	0.0702608054963829	Enterococcus sp. FDAARGOS_375	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	344.7697725707509	0.8570900717039861	0.0
+73140	0.0381558229551772	Pelomonas_sp.	Pelomonas	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	187.23062324105487	0.9950128016051284	0.005494505494505495
+10003255	0.0140145459056341	Pelomonas saccharophila	Pelomonas	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	68.76937675894682	0.9170500898794611	0.0
+2018067	0.0216955137903372	Pseudomonas sp. FDAARGOS_380	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	106.45988616918476	0.5910977371768275	0.0
+10003594	0.0357734081578998	Pseudomonas azotoformans	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	175.54011383081453	0.6255557725882092	0.0
+670293	0.0077440391277766	Segetibacter aerophilus	Segetibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	Bacteria	EMU	38.0	1.0	1.0
+1141883	0.0409618911938135	Massilia putida	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	201.00000008804287	0.9999999999999999	0.9950248756218906
+10003216	0.0064238213090154	Sphingobium yanoikuyae	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	31.52169116333875	0.5651352067813761	0.0
+2565554	0.0049636966931478	Sphingobium sp. PAMC28499	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	24.35685967327661	0.6470481933781163	0.0
+2493669	0.0128388017118402	Mesorhizobium sp. M1D.F.Ca.ET.043.01.1.1	Mesorhizobium	Phyllobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	63.0	1.0	1.0
+73157	0.0046518174968785	Variovorax_sp.	Variovorax	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	22.826468457183065	0.992455150312307	0.6521739130434783
+1304	0.0391277766456083	Streptococcus salivarius	Streptococcus	Streptococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	192.0	1.0	1.0
+946333	0.0023959336817344	Rhizobacter gummiphilus	Rhizobacter	Unknown	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	11.756846576270751	0.8792176259289507	0.38461538461538464
+1796922	0.0137035160839062	Piscinibacter defluvii	Piscinibacter	Unknown	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	67.24315342372789	0.9950451903152158	0.0
+80866	0.0087629916445893	Delftia acidovorans	Delftia	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	43.0	1.0	1.0
+72724	0.0098155898987908	Singulisphaera_sp.	Singulisphaera	Isosphaeraceae	Isosphaerales	Planctomycetacia	Planctomycetes	Bacteria	PR2	48.16509963336666	0.9175232594887671	0.025
+72721	0.0089331364105631	Candidatus_Nostocoida_sp.	Candidatus_Nostocoida	Isosphaeraceae	Isosphaerales	Planctomycetacia	Planctomycetes	Bacteria	PR2	43.83490036663333	0.7795352066573847	0.0
+10003285	0.0073364581210515	Neisseria macacae	Neisseria	Neisseriaceae	Neisseriales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	36.0	1.0	1.0
+2267266	0.0175259832891787	Flaviflagellibacter deserti	Flaviflagellibacter	Unknown	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	86.0	1.0	1.0
+73090	0.0042796016532394	Acidovorax_sp.	Acidovorax	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	21.000005312446092	1.0	1.0
+10002624	0.002649276543713	Abiotrophia defectiva	Abiotrophia	Aerococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	13.000000000000002	1.0	1.0
+unmapped	0.0									1.0	0.0	0.0
+mapped_unclassified	0.0									67.0	0.0	0.0
