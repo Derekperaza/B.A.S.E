@@ -1,0 +1,44 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+426702	0.1356209150326797	664.0	Alkalibacterium pelagium	Alkalibacterium	Carnobacteriaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+72457	0.0071486928104575	35.0	Bacillus_sp.	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	PR2	1.0	1.0
+49632	0.047845179738562	234.25	Castanea_mollissima:plas	Castanea:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	0.25	0.0
+8251	0.047845179738562	234.25	Quercus_rubra	Quercus	Embryophyceae_XX	Embryophyceae_X	Embryophyceae	Streptophyta	Eukaryota	PR2	0.0	0.0
+8251	0.047845179738562	234.25	Quercus_rubra:plas	Quercus:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	0.0	0.0
+49634	0.047845179738562	234.25	Quercus_nigra:plas	Quercus:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	0.0	0.0
+49633	0.047845179738562	234.25	Castanopsis_echinocarpa:plas	Castanopsis:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	0.0	0.0
+73513	0.2097632293109939	1027.0007707066266	Dioon_edule:mito	Dioon:mito	Embryophyceae_XX:mito	Embryophyceae_X:mito	Embryophyceae:mito	Streptophyta:mito	Eukaryota:mito	PR2	0.9999999860239092	0.9980525803310614
+6722	0.0038805615386792	18.999229293373592	Epifagus_virginiana	Epifagus	Embryophyceae_XX	Embryophyceae_X	Embryophyceae	Streptophyta	Eukaryota	PR2	0.9999586810488628	0.8947368421052632
+6722	0.0038805615386792	18.999229293373592	Epifagus_virginiana:plas	Epifagus:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	0.9999586810488628	0.8947368421052632
+72724	0.0104166666666666	51.0	Singulisphaera_sp.	Singulisphaera	Isosphaeraceae	Isosphaerales	Planctomycetacia	Planctomycetes	Bacteria	PR2	1.0	1.0
+111143	0.0551003631875519	269.7713781662542	Alishewanella fetalis	Alishewanella	Alteromonadaceae	Alteromonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.989923596970881	0.0
+545533	0.0020891792961084	10.22862183374673	Alishewanella jeotgali	Alishewanella	Alteromonadaceae	Alteromonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.9359800262282922	0.375
+10003574	0.0161356209150326	79.00000000000001	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+2060307	0.1141748366013071	559.0	Enterococcus sp. FDAARGOS_375	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+2565554	0.0239646886141319	117.33111545479024	Sphingobium sp. PAMC28499	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.0	0.0
+10003216	0.033429102235541	163.668884545209	Sphingobium yanoikuyae	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.5824515464242335	0.0
+10159	0.0055147058823529	27.0	Rhodomonas_salina	Rhodomonas	Pyrenomonadaceae	Pyrenomonadales	Cryptophyceae	Cryptophyta	Eukaryota	PR2	1.0	1.0
+10159	0.0055147058823529	27.0	Rhodomonas_salina:mito	Rhodomonas:mito	Pyrenomonadaceae:mito	Pyrenomonadales:mito	Cryptophyceae:mito	Cryptophyta:mito	Eukaryota:mito	PR2	1.0	1.0
+10159	0.0055147058823529	27.0	Rhodomonas_salina:nucl	Rhodomonas:nucl	Pyrenomonadaceae:nucl	Pyrenomonadales:nucl	Cryptophyceae:nucl	Cryptophyta:nucl	Eukaryota:nucl	PR2	1.0	1.0
+10159	0.0055147058823529	27.0	Rhodomonas_salina:plas	Rhodomonas:plas	Pyrenomonadaceae:plas	Pyrenomonadales:plas	Cryptophyceae:plas	Cryptophyta:plas	Eukaryota:plas	PR2	1.0	1.0
+180295	0.0496323529411764	243.0	Atopostipes suicloacalis	Atopostipes	Carnobacteriaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+528244	0.0187908496732026	92.0	Azospirillum thiophilum	Azospirillum	Rhodospirillaceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+10003577	0.005718954248366	28.0	Acinetobacter radioresistens	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1827279	0.005718954248366	28.0	Aliterella antarctica	Aliterella	Chroococcidiopsidaceae	Chroococcidiopsidales	Unknown	Cyanobacteria	Bacteria	EMU	1.0	1.0
+1306274	0.005923202614379	29.0	Nostoc flagelliforme	Nostoc	Nostocaceae	Nostocales	Unknown	Cyanobacteria	Bacteria	EMU	1.0	1.0
+10003601	0.003063725490196	15.0	Pseudomonas fulva	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+569883	0.0075571895424836	37.0	Planomicrobium flavidum	Planomicrobium	Planococcaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+739141	0.0482026143790849	236.0	Methylobacterium sp. XJLW	Methylobacterium	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1290	0.0036764705882352	18.0	Staphylococcus hominis	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+52021	0.0120506535947712	59.0	Halomonas desiderata	Halomonas	Halomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+287	0.0046977124183006	23.0	Pseudomonas aeruginosa	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1904807	0.0022467320261437	11.0	Bradyrhizobium mercantei	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.5	0.0
+1654716	0.0022467320261437	11.0	Bradyrhizobium viridifuturi	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.0	0.0
+2583377	0.0067401960784313	33.0	Saccharibacillus brassicae	Saccharibacillus	Paenibacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+863372	0.0044934640522875	22.0	Herbaspirillum huttiense	Herbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+670293	0.0036764705882352	18.0	Segetibacter aerophilus	Segetibacter	Chitinophagaceae	Chitinophagales	Chitinophagia	Bacteroidetes	Bacteria	EMU	1.0	1.0
+72018	0.0026552287581699	13.0	Subgroup_7_XX_sp.	Subgroup_7_XX	Subgroup_7_X	Subgroup_7	Holophagae	Acidobacteria	Bacteria	PR2	1.0	1.0
+80878	0.0022467320261437	11.0	Acidovorax temperans	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+332410	0.0020424836601307	10.0	Exiguobacterium sibiricum	Exiguobacterium	Unknown	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	72.0									0.0	0.0

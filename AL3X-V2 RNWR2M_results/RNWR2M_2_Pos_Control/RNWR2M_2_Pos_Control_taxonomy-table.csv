@@ -1,0 +1,41 @@
+Taxonomy ID,Kingdom,Phylum,Class,Order,Family,Genus,Species,Relative Abundance
+426702,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Alkalibacterium,Alkalibacterium pelagium,0.1356209150326797
+72457,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus,Bacillus_sp.,0.0071486928104575
+49632,Eukaryota:plas,Streptophyta:plas,Embryophyceae:plas,Embryophyceae_X:plas,Embryophyceae_XX:plas,Castanea:plas,Castanea_mollissima:plas,0.047845179738562
+8251,Eukaryota,Streptophyta,Embryophyceae,Embryophyceae_X,Embryophyceae_XX,Quercus,Quercus_rubra,0.047845179738562
+8251,Eukaryota:plas,Streptophyta:plas,Embryophyceae:plas,Embryophyceae_X:plas,Embryophyceae_XX:plas,Quercus:plas,Quercus_rubra:plas,0.047845179738562
+49634,Eukaryota:plas,Streptophyta:plas,Embryophyceae:plas,Embryophyceae_X:plas,Embryophyceae_XX:plas,Quercus:plas,Quercus_nigra:plas,0.047845179738562
+49633,Eukaryota:plas,Streptophyta:plas,Embryophyceae:plas,Embryophyceae_X:plas,Embryophyceae_XX:plas,Castanopsis:plas,Castanopsis_echinocarpa:plas,0.047845179738562
+73513,Eukaryota:mito,Streptophyta:mito,Embryophyceae:mito,Embryophyceae_X:mito,Embryophyceae_XX:mito,Dioon:mito,Dioon_edule:mito,0.2097632293109939
+6722,Eukaryota,Streptophyta,Embryophyceae,Embryophyceae_X,Embryophyceae_XX,Epifagus,Epifagus_virginiana,0.0038805615386792
+6722,Eukaryota:plas,Streptophyta:plas,Embryophyceae:plas,Embryophyceae_X:plas,Embryophyceae_XX:plas,Epifagus:plas,Epifagus_virginiana:plas,0.0038805615386792
+72724,Bacteria,Planctomycetes,Planctomycetacia,Isosphaerales,Isosphaeraceae,Singulisphaera,Singulisphaera_sp.,0.0104166666666666
+111143,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alishewanella,Alishewanella fetalis,0.0551003631875519
+545533,Bacteria,Proteobacteria,Gammaproteobacteria,Alteromonadales,Alteromonadaceae,Alishewanella,Alishewanella jeotgali,0.0020891792961084
+10003574,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter johnsonii,0.0161356209150326
+2060307,Bacteria,Firmicutes,Bacilli,Lactobacillales,Enterococcaceae,Enterococcus,Enterococcus sp. FDAARGOS_375,0.1141748366013071
+2565554,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium sp. PAMC28499,0.0239646886141319
+10003216,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Sphingobium,Sphingobium yanoikuyae,0.033429102235541
+10159,Eukaryota,Cryptophyta,Cryptophyceae,Pyrenomonadales,Pyrenomonadaceae,Rhodomonas,Rhodomonas_salina,0.0055147058823529
+10159,Eukaryota:mito,Cryptophyta:mito,Cryptophyceae:mito,Pyrenomonadales:mito,Pyrenomonadaceae:mito,Rhodomonas:mito,Rhodomonas_salina:mito,0.0055147058823529
+10159,Eukaryota:nucl,Cryptophyta:nucl,Cryptophyceae:nucl,Pyrenomonadales:nucl,Pyrenomonadaceae:nucl,Rhodomonas:nucl,Rhodomonas_salina:nucl,0.0055147058823529
+10159,Eukaryota:plas,Cryptophyta:plas,Cryptophyceae:plas,Pyrenomonadales:plas,Pyrenomonadaceae:plas,Rhodomonas:plas,Rhodomonas_salina:plas,0.0055147058823529
+180295,Bacteria,Firmicutes,Bacilli,Lactobacillales,Carnobacteriaceae,Atopostipes,Atopostipes suicloacalis,0.0496323529411764
+528244,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Rhodospirillaceae,Azospirillum,Azospirillum thiophilum,0.0187908496732026
+10003577,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter radioresistens,0.005718954248366
+1827279,Bacteria,Cyanobacteria,Unknown,Chroococcidiopsidales,Chroococcidiopsidaceae,Aliterella,Aliterella antarctica,0.005718954248366
+1306274,Bacteria,Cyanobacteria,Unknown,Nostocales,Nostocaceae,Nostoc,Nostoc flagelliforme,0.005923202614379
+10003601,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas fulva,0.003063725490196
+569883,Bacteria,Firmicutes,Bacilli,Bacillales,Planococcaceae,Planomicrobium,Planomicrobium flavidum,0.0075571895424836
+739141,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Methylobacteriaceae,Methylobacterium,Methylobacterium sp. XJLW,0.0482026143790849
+1290,Bacteria,Firmicutes,Bacilli,Bacillales,Staphylococcaceae,Staphylococcus,Staphylococcus hominis,0.0036764705882352
+52021,Bacteria,Proteobacteria,Gammaproteobacteria,Oceanospirillales,Halomonadaceae,Halomonas,Halomonas desiderata,0.0120506535947712
+287,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas,Pseudomonas aeruginosa,0.0046977124183006
+1904807,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium mercantei,0.0022467320261437
+1654716,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Bradyrhizobiaceae,Bradyrhizobium,Bradyrhizobium viridifuturi,0.0022467320261437
+2583377,Bacteria,Firmicutes,Bacilli,Bacillales,Paenibacillaceae,Saccharibacillus,Saccharibacillus brassicae,0.0067401960784313
+863372,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Oxalobacteraceae,Herbaspirillum,Herbaspirillum huttiense,0.0044934640522875
+670293,Bacteria,Bacteroidetes,Chitinophagia,Chitinophagales,Chitinophagaceae,Segetibacter,Segetibacter aerophilus,0.0036764705882352
+72018,Bacteria,Acidobacteria,Holophagae,Subgroup_7,Subgroup_7_X,Subgroup_7_XX,Subgroup_7_XX_sp.,0.0026552287581699
+80878,Bacteria,Proteobacteria,Betaproteobacteria,Burkholderiales,Comamonadaceae,Acidovorax,Acidovorax temperans,0.0022467320261437
+332410,Bacteria,Firmicutes,Bacilli,Bacillales,Unknown,Exiguobacterium,Exiguobacterium sibiricum,0.0020424836601307

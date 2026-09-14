@@ -1,0 +1,49 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+10003216	0.0623592315244442	298.7007190020879	Sphingobium yanoikuyae	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.7774848899530301	0.2727272727272727
+2565554	0.0762628979118815	365.29928099791255	Sphingobium sp. PAMC28499	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.5556686290771714	0.0
+114975	0.0315240083507306	151.0	Sporosarcina aquimarina	Sporosarcina	Planococcaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+448141	0.0275574112734864	132.0	Calditerricola yamamurae	Calditerricola	Bacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+581036	0.0093231132676595	44.65771255208914	Anoxybacillus vitaminiphilus	Anoxybacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	0.9106940415852631	0.28888888888888886
+294699	0.0080976895955265	38.78793316257215	Anoxybacillus amylolyticus	Anoxybacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	0.9017654961854142	0.07692307692307693
+560405	0.0045929018789144	22.0	Methylobacterium dankookense	Methylobacterium	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1282	0.0392484342379958	188.0	Staphylococcus epidermidis	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+2594003	0.0526096033402922	252.0	Ferrovibrio terrae	Ferrovibrio	Rhodospirillaceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1396	0.0022964509394572	11.0	Bacillus cereus	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	0.5	0.0
+1428	0.0022964509394572	11.0	Bacillus thuringiensis	Bacillus	Bacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	0.0	0.0
+111143	0.0104384133611691	50.0	Alishewanella fetalis	Alishewanella	Alteromonadaceae	Alteromonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+10003574	0.0304801670146137	146.0	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+426702	0.0634655532359081	304.00000000000006	Alkalibacterium pelagium	Alkalibacterium	Carnobacteriaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+1390395	0.0507306889352818	243.0	Sphingomonas sp. LK11	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+101564	0.018580375782881	89.0	Pseudomonas alcaliphila	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+762261	0.0250521920668058	120.0	Altererythrobacter xinjiangensis	Altererythrobacter	Erythrobacteraceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+73034	0.0112734864300626	54.0	03196G20_X_sp.	03196G20_X	03196G20	Oligoflexales	Deltaproteobacteria	Proteobacteria	Bacteria	PR2	1.0	1.0
+10002853	0.0031315240083507	15.0	Faecalibacterium prausnitzii	Faecalibacterium	Ruminococcaceae	Clostridiales	Clostridia	Firmicutes	Bacteria	EMU	1.0	1.0
+54007	0.0238018458591863	114.0108416655028	Anaerococcus octavius	Anaerococcus	Peptoniphilaceae	Tissierellales	Tissierellia	Firmicutes	Bacteria	EMU	1.0	1.0
+287	0.0096741184505381	46.33902737807791	Pseudomonas aeruginosa	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.7346944295755617	0.025
+294	0.0282453220950173	135.29509283513295	Pseudomonas fluorescens	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.7045157557393453	0.06707317073170732
+80878	0.0461377870563674	221.0	Acidovorax temperans	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+2060307	0.0682672233820459	327.0	Enterococcus sp. FDAARGOS_375	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+303	0.0471816283924843	226.0	Pseudomonas putida	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+946573	0.0070981210855949	34.0	Brevibacterium yomogidense	Brevibacterium	Brevibacteriaceae	Micrococcales	Actinobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+72030	0.0037578288100208	18.0	Sva0996_marine_group_sp.	Sva0996_marine_group	Microtrichaceae	Microtrichales	Acidimicrobiia	Actinobacteria	Bacteria	PR2	1.0	1.0
+52021	0.0152400835073068	73.0	Halomonas desiderata	Halomonas	Halomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1290	0.0373695198329853	179.0	Staphylococcus hominis	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+80866	0.0160751565762004	77.0	Delftia acidovorans	Delftia	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+73095	0.0189979123173277	91.0	Aquabacterium_sp.	Aquabacterium	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	1.0	1.0
+1827300	0.0167778454669706	80.3658797867892	Pseudomonas sp. MYb193	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.8423743779844365	0.0
+72633	0.0075156576200417	36.0	Ruminococcaceae_UCG005_sp.	Ruminococcaceae_UCG005	Ruminococcaceae	Clostridiales	Clostridia	Firmicutes	Bacteria	PR2	1.0	1.0
+10002248	0.0022964509394572	11.0	Arthrobacter agilis	Arthrobacter	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+10003255	0.0256784968684759	123.0	Pelomonas saccharophila	Pelomonas	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1886785	0.0304801670146137	146.0	Massilia agri	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+10002260	0.015866388308977	76.00000000000001	Micrococcus luteus	Micrococcus	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+1745712	0.0031292606126298	14.989158334497205	Anaerococcus urinomassiliensis	Anaerococcus	Peptoniphilaceae	Tissierellales	Tissierellia	Firmicutes	Bacteria	EMU	0.9992772222998136	0.06666666666666667
+2492394	0.0116910229645093	56.0	Lysobacter segetis	Lysobacter	Xanthomonadaceae	Xanthomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+108981	0.008768267223382	42.0	Acinetobacter schindleri	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1776391	0.0022964509394572	11.0	Romboutsia timonensis	Romboutsia	Peptostreptococcaceae	Clostridiales	Clostridia	Firmicutes	Bacteria	EMU	1.0	1.0
+72268	0.0031315240083507	15.0	Microscillaceae_X_sp.	Microscillaceae_X	Microscillaceae	Cytophagales	Bacteroidia	Bacteroidetes	Bacteria	PR2	1.0	1.0
+1297617	0.0121085594989561	58.0	Intestinimonas butyriciproducens	Intestinimonas	Unknown	Clostridiales	Clostridia	Firmicutes	Bacteria	EMU	1.0	1.0
+283877	0.0062630480167014	30.0	Leucobacter chromiireducens	Leucobacter	Microbacteriaceae	Micrococcales	Actinobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+72456	0.0028297190574819	13.55435428533872	Bacillaceae_X_sp.	Bacillaceae_X	Bacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	PR2	0.9996961420388557	0.23076923076923078
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	84.0									0.0	0.0

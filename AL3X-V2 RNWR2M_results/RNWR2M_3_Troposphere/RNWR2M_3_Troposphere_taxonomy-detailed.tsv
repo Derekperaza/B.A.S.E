@@ -1,0 +1,52 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+863372	0.0672995847758188	332.93104588597555	Herbaspirillum huttiense	Herbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	0.9997929299471556	0.993993993993994
+10003216	0.0233358548992924	115.4424741867996	Sphingobium yanoikuyae	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.6783003565402712	0.0
+2565554	0.0112296529113593	55.5530929524946	Sphingobium sp. PAMC28499	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.5951439464350143	0.0
+433286	0.0295128360622599	146.0	Anaerocolumna cellulosilytica	Anaerocolumna	Lachnospiraceae	Clostridiales	Clostridia	Firmicutes	Bacteria	EMU	1.0	1.0
+945844	0.0634728118051344	314.0	Massilia oculi	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+72006	0.1685870224378411	834.0000000000001	Candidatus_Solibacter_sp.	Candidatus_Solibacter	Solibacteraceae_(Subgroup_3)	Solibacterales	Acidobacteriia	Acidobacteria	Bacteria	PR2	1.0	1.0
+10003594	0.0079835588351487	39.49466555748064	Pseudomonas azotoformans	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.0	0.0
+2018067	0.0105241843306506	52.06313988372873	Pseudomonas sp. FDAARGOS_380	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.36846796770236606	0.0
+1827300	0.0086683917407421	42.88253394145131	Pseudomonas sp. MYb193	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.6589399597780384	0.0
+294	0.0098924063738789	48.93773433157926	Pseudomonas fluorescens	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.6762495708995244	0.0
+186651	0.0079723798462077	39.43936309918973	Microvirga subterranea	Microvirga	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.9812666571230297	0.0
+670292	0.1118982488176289	553.5606369008104	Microvirga aerilata	Microvirga	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.9996587761043969	0.8806509945750453
+80878	0.0139478471801091	69.0	Acidovorax temperans	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+2060307	0.0179168599213216	88.63470603077809	Enterococcus sp. FDAARGOS_375	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	0.7817127906483782	0.0
+2057791	0.0051274093327717	25.36529396922198	Enterococcus sp. CR-Ec1	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	0.69883931248876	0.0
+80866	0.0580149585607438	287.0	Delftia acidovorans	Delftia	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1343896	0.0062664240954113	31.0	Pontibacter deserti	Pontibacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidetes	Bacteria	EMU	1.0	1.0
+10002248	0.0107135637760258	53.0	Arthrobacter agilis	Arthrobacter	Micrococcaceae	Micrococcales	Actinobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+10003105	0.0289064079239943	143.0	Phyllobacterium myrsinacearum	Phyllobacterium	Phyllobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+10003574	0.0204164139882757	101.0	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+280333	0.0046492823933697	23.0	Bradyrhizobium pachyrhizi	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.5	0.0
+2057741	0.0046492823933697	23.0	Bradyrhizobium sp. SK17	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.0	0.0
+528191	0.0247368383188081	122.3731391631437	Paenibacillus xylanexedens	Paenibacillus	Paenibacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	0.8760005491191356	0.0
+2607911	0.0037652841796758	18.626860836856213	Paenibacillus sp. 37	Paenibacillus	Paenibacillaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	0.695468582208027	0.0
+1064518	0.0560074700048563	277.06895411402445	Noviherbaspirillum soli	Noviherbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	0.9999999992289795	0.9855595667870036
+1304	0.039417828987265	195.0	Streptococcus salivarius	Streptococcus	Streptococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+426702	0.032544976753588	161.0	Alkalibacterium pelagium	Alkalibacterium	Carnobacteriaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+10003474	0.0369921164342025	183.0	Serratia marcescens	Serratia	Yersiniaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+670289	0.0048514251061249	24.0	Adhaeribacter aerolatus	Adhaeribacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidetes	Bacteria	EMU	1.0	1.0
+1442381	0.0141499898928643	70.0	Dankookia rubra	Dankookia	Acetobacteraceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1007511	0.0045922985138976	22.71810074825162	Sphingobium limneticum	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.0	0.0
+2082188	0.0079414457474134	39.28633211245457	Sphingobium sp. YG1	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.6336053467137102	0.0
+1859	0.0045671081399147	22.59348396815822	Frankia alni	Frankia	Frankiaceae	Frankiales	Actinobacteria	Actinobacteria	Bacteria	EMU	0.982526404404775	0.45454545454545453
+333142	0.0077635973381527	38.40651603184176	Klenkia brasiliensis	Klenkia	Geodermatophilaceae	Geodermatophilales	Actinobacteria	Actinobacteria	Bacteria	EMU	0.9749255622755595	0.0
+73120	0.0076814230846977	38.0	Lautropia_sp.	Lautropia	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	1.0	1.0
+1302689	0.0192035577117444	95.0	Mucilaginibacter polytrichastri	Mucilaginibacter	Sphingobacteriaceae	Sphingobacteriales	Sphingobacteriia	Bacteroidetes	Bacteria	EMU	1.0	1.0
+303	0.0020985520421098	10.381536952317404	Pseudomonas putida	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+10003601	0.0063914418936087	31.6184630476826	Pseudomonas fulva	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.9880769702400811	0.84375
+52021	0.0062664240954113	31.0	Halomonas desiderata	Halomonas	Halomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+687525	0.0036385688295936	18.0	Rubellimicrobium roseum	Rubellimicrobium	Rhodobacteraceae	Rhodobacterales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1639882	0.0056599959571457	28.0	Longimicrobium terrae	Longimicrobium	Longimicrobiaceae	Longimicrobiales	Longimicrobia	Gemmatimonadetes	Bacteria	EMU	1.0	1.0
+287	0.0045728575471518	22.62192628576005	Pseudomonas aeruginosa	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	0.7816797888078233	0.0
+72856	0.0032342834040832	15.999999999999998	Xanthobacteraceae_X_sp.	Xanthobacteraceae_X	Xanthobacteraceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	1.0	1.0
+283877	0.0022235698403072	11.0	Leucobacter chromiireducens	Leucobacter	Microbacteriaceae	Micrococcales	Actinobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+496014	0.0022235698403072	11.0	Baekduia soli	Baekduia	Baekduiaceae	Rubrobacterales	Rubrobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+10002616	0.0022235698403072	11.0	Laceyella sacchari	Laceyella	Thermoactinomycetaceae	Bacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+72724	0.0042449969678593	21.0	Singulisphaera_sp.	Singulisphaera	Isosphaeraceae	Isosphaerales	Planctomycetacia	Planctomycetes	Bacteria	PR2	1.0	1.0
+2496028	0.002021427127552	10.000000000000002	Hymenobacter sp. 17J36-26	Hymenobacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidetes	Bacteria	EMU	1.0	1.0
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	47.0									0.0	0.0

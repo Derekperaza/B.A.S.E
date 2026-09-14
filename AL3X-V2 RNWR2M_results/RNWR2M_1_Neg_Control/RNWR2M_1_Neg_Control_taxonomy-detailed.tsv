@@ -1,0 +1,26 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+186651	0.0562713462185191	278.2055357043585	Microvirga subterranea	Microvirga	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.9463563682089328	0.003424657534246575
+1128670	0.0080490421309954	39.79446429564171	Microvirga makkahensis	Microvirga	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.9280970697173111	0.6538461538461539
+73090	0.0505980758939945	250.15688721990915	Acidovorax_sp.	Acidovorax	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	0.7843123826145436	0.0
+80878	0.0143291085720249	70.84311278009112	Acidovorax temperans	Acidovorax	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	0.7514834838386085	0.0
+303	0.0084951456310679	42.0	Pseudomonas putida	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+2493639	0.0351941747572815	174.0	Silvanigrellales bacterium RF1110005	Unknown	Unknown	Silvanigrellales	Oligoflexia	Proteobacteria	Bacteria	EMU	1.0	1.0
+80866	0.141383495145631	699.0	Delftia acidovorans	Delftia	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+73012	0.1559466019417475	770.9999999999999	Haliangium_sp.	Haliangium	Haliangiaceae	Myxococcales	Deltaproteobacteria	Proteobacteria	Bacteria	PR2	1.0	1.0
+913326	0.4075647249190938	2015.0	Skermanella stibiiresistens	Skermanella	Rhodospirillaceae	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+426702	0.0226537216828478	112.0	Alkalibacterium pelagium	Alkalibacterium	Carnobacteriaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	1.0	1.0
+1538021	0.0252831715210356	125.0	Novosphingobium tardum	Novosphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+2565554	0.025337991727415	125.27103110033975	Sphingobium sp. PAMC28499	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.8241515203969743	0.0
+10003216	0.0054063448421642	26.728968899660025	Sphingobium yanoikuyae	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	0.0	0.0
+1333667	0.0050566343042071	25.0	Geodermatophilus poikilotrophus	Geodermatophilus	Geodermatophilaceae	Geodermatophilales	Actinobacteria	Actinobacteria	Bacteria	EMU	1.0	1.0
+10003105	0.0175970873786407	87.0	Phyllobacterium myrsinacearum	Phyllobacterium	Phyllobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+862134	0.0028317152103559	14.000000000000002	Sphingomonas ginsenosidimutans	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+1839799	0.0021574973031283	10.666666666666668	Streptococcus sp. FDAARGOS_192	Streptococcus	Streptococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	0.3333333333333333	0.0
+1335	0.0021574973031283	10.666666666666668	Streptococcus equinus	Streptococcus	Streptococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	0.0	0.0
+1304	0.0021574973031283	10.666666666666668	Streptococcus salivarius	Streptococcus	Streptococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	0.0	0.0
+429134	0.0048543689320388	24.0	Sphingomonas desiccabilis	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+2018067	0.0038430420711974	19.0	Pseudomonas sp. FDAARGOS_380	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+10003574	0.0028317152103559	14.000000000000002	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	1.0	1.0
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	38.0									0.0	0.0
