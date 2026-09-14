@@ -1,0 +1,34 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+29378	0.0154352747478905	75.0	Staphylococcus arlettae	Staphylococcus	Staphylococcaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+1296	0.2963572751594978	1440.0	Mammaliicoccus sciuri	Mammaliicoccus	Staphylococcaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+28101	0.1215120293238183	590.4269504844335	Phyllobacterium myrsinacearum	Phyllobacterium	Phyllobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9990303523121802	0.2961082910321489
+756892	0.0675036015641078	328.0	Acinetobacter indicus	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2045010	0.0360156410784111	175.0	Citricoccus massiliensis	Citricoccus	Micrococcaceae	Micrococcales	Actinomycetes	Actinomycetota	Bacteria	EMU	1.0	1.0
+202611	0.0102901831652603	50.0	Lysinibacillus odysseyi	Lysinibacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+73513	0.0409549289977361	199.0	Dioon_edule:mito	Dioon:mito	Embryophyceae_XX:mito	Embryophyceae_X:mito	Embryophyceae:mito	Streptophyta:mito	Eukaryota:mito	PR2	1.0	1.0
+6722	0.0032928586128833	16.0	Epifagus_virginiana:plas	Epifagus:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	1.0	1.0
+2885764	0.0650339576044453	316.0	Globicatella sp. PHS-GS-PNBC-21-1553	Globicatella	Aerococcaceae	Lactobacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+6649	0.0491870755299444	239.0	Embryophyceae_XXX_sp.:plas	Embryophyceae_XXX:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	1.0	1.0
+2880968	0.0323111751389174	157.0	Pseudoneobacillus rhizosphaerae	Pseudoneobacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+2718938	0.0036165979657475	17.573049515567384	Phyllobacterium sp. 628	Phyllobacterium	Phyllobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9999992783568078	0.0
+2082188	0.0415698556956697	201.9879288252592	Sphingobium sp. YG1	Sphingobium	Sphingobiaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9999402417092038	0.995049504950495
+1931241	0.0261370652397612	127.0	Halopseudomonas phragmitis	Halopseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+40214	0.0201687590039102	98.0	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+391738	0.0397201070179049	193.0	Novilysobacter defluvii	Novilysobacter	Lysobacteraceae	Lysobacterales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+52	0.0048740809841727	23.68315950209553	Chondromyces crocatus	Chondromyces	Polyangiaceae	Polyangiales	Unknown	Myxococcota	Bacteria	EMU	0.8940746629911008	0.13333333333333333
+83447	0.0165294999995687	80.31684049790445	Chondromyces pediculatus	Chondromyces	Polyangiaceae	Polyangiales	Unknown	Myxococcota	Bacteria	EMU	0.8845838251996737	0.0
+2745851	0.0195513480139946	95.0	Moheibacter lacus	Moheibacter	Weeksellaceae	Flavobacteriales	Flavobacteriia	Bacteroidota	Bacteria	EMU	1.0	1.0
+1902580	0.0021952390752555	10.666666666666668	Macrococcus epidermidis	Macrococcus	Staphylococcaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.3333333333333333	0.0
+1891097	0.0021952390752555	10.666666666666668	Macrococcoides goetzii	Macrococcoides	Staphylococcaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.0	0.0
+1903056	0.0021952390752555	10.666666666666668	Macrococcoides bohemicum	Macrococcoides	Staphylococcaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.0	0.0
+13690	0.0078230234975799	38.01207117474083	Sphingobium yanoikuyae	Sphingobium	Sphingobiaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+251051	0.0236674212800987	115.0	Pallidibacillus thermolactis	Pallidibacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+863372	0.0211977773204363	103.0	Herbaspirillum huttiense	Herbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+1812261	0.0024163573419003	11.741080324293891	Phocicoccus schoeneichii	Phocicoccus	Salinicoccaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.968690522951342	0.9166666666666666
+110845	0.0119898990894641	58.2589196757061	Phocicoccus pinnipedialis	Phocicoccus	Salinicoccaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.997986309502107	0.0
+1703	0.0059683062358509	29.0	Brevibacterium linens	Brevibacterium	Brevibacteriaceae	Micrococcales	Actinomycetes	Actinomycetota	Bacteria	EMU	1.0	1.0
+134034	0.0074089318789874	36.0	Corynebacterium freneyi	Corynebacterium	Corynebacteriaceae	Mycobacteriales	Actinomycetes	Actinomycetota	Bacteria	EMU	1.0	1.0
+2653852	0.0028812512862728	14.0	Rubrobacter marinus	Rubrobacter	Rubrobacteraceae	Rubrobacterales	Rubrobacteria	Actinomycetota	Bacteria	EMU	1.0	1.0
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	26.0									0.0	0.0

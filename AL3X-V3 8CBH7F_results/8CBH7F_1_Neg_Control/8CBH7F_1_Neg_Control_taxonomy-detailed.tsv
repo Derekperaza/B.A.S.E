@@ -1,0 +1,33 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+151414	0.0375958622312713	185.94913459586817	Afipia birgiae	Afipia	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9997265300853114	0.043010752688172046
+3116917	0.0074910767092866	37.05086540413196	Afipia dichlorophenoxyacetatis	Afipia	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9999999999999966	0.08108108108108109
+73513	0.3885690453591663	1921.8624983464365	Dioon_edule:mito	Dioon:mito	Embryophyceae_XX:mito	Embryophyceae_X:mito	Embryophyceae:mito	Streptophyta:mito	Eukaryota:mito	PR2	0.9997733160051772	0.9947970863683663
+6722	0.0079129604360186	39.13750231654829	Epifagus_virginiana:plas	Epifagus:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	0.9923542481670768	0.9743589743589743
+2080755	0.0158347822368195	78.3188329433093	Tautonia sociabilis	Tautonia	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.9383724814551674	0.18181818181818182
+406548	0.008685614338778	42.95904851959615	Aquisphaera giovannonii	Aquisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.8249533759400227	0.0425531914893617
+28101	0.1330112441289666	657.873613461869	Phyllobacterium myrsinacearum	Phyllobacterium	Phyllobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.999806528110784	0.2826747720364742
+2718938	0.0046757756850245	23.126386538131364	Phyllobacterium sp. 628	Phyllobacterium	Phyllobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.999960088479442	0.0
+643672	0.0030248624434032	14.960969645072565	Singulisphaera rosea	Singulisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.9896395986985163	0.2
+2712865	0.0229451958738316	113.48693879197116	Paludisphaera soli	Paludisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.9075251000319687	0.0
+1855383	0.0086938940558026	43.0	Faunimonas pinastri	Faunimonas	Afifellaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2082188	0.0062676910634856	31.0	Sphingobium sp. YG1	Sphingobium	Sphingobiaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2954672	0.0721795390214314	357.0	Neobacillus sp. FSL H8-0543	Neobacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+1162966	0.0198139911039223	98.0	Naasia aerilata	Naasia	Microbacteriaceae	Micrococcales	Actinomycetes	Actinomycetota	Bacteria	EMU	1.0	1.0
+1002870	0.0088960776384957	43.99999999999999	Gaiella occulta	Gaiella	Gaiellaceae	Gaiellales	Thermoleophilia	Actinomycetota	Bacteria	EMU	1.0	1.0
+40214	0.035584310553983	175.99999999999997	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+10159	0.0149615851192883	74.0	Rhodomonas_salina:plas	Rhodomonas:plas	Pyrenomonadaceae:plas	Pyrenomonadales:plas	Cryptophyceae:plas	Cryptophyta:plas	Eukaryota:plas	PR2	1.0	1.0
+1636152	0.0352353841690357	174.27421010005082	Planctomyces sp. SH-PL62	Planctomyces	Planctomycetaceae	Planctomycetales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.8242265336237418	0.0
+490573	0.0139506672058228	69.0	Solirubrobacter ginsenosidimutans	Solirubrobacter	Solirubrobacteraceae	Solirubrobacterales	Thermoleophilia	Actinomycetota	Bacteria	EMU	1.0	1.0
+2861282	0.0286307964012618	141.60791900064103	Massilia sp. NP310	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9918328683458812	0.9708029197080292
+73511	0.0054589565986686	26.99999933701509	Plantago_coronopus:mito	Plantago:mito	Embryophyceae_XX:mito	Embryophyceae_X:mito	Embryophyceae:mito	Streptophyta:mito	Eukaryota:mito	PR2	0.9999999754443716	0.037037037037037035
+6649	0.0810756166599272	401.0	Embryophyceae_XXX_sp.:plas	Embryophyceae_XXX:plas	Embryophyceae_XX:plas	Embryophyceae_X:plas	Embryophyceae:plas	Streptophyta:plas	Eukaryota:plas	PR2	1.0	1.0
+243690	0.0099069955519611	48.99999999999999	Methylobacterium goesingense	Methylobacterium	Methylobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+47880	0.0036393044884755	18.0	Pseudomonas fulva	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+316	0.0030327537403962	15.0	Stutzerimonas stutzeri	Stutzerimonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2769491	0.0047068715231391	23.2801865534462	Massilia litorea	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9999999917360823	0.21739130434782608
+1505	0.0107157298827335	53.0	Paraclostridium sordellii	Paraclostridium	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota	Bacteria	EMU	1.0	1.0
+2603288	0.0050772127872852	25.111894445912803	Massilia arenae	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	0.8091061345139275	0.0
+1648232	0.002426202992317	12.0	Skermanella rubra	Skermanella	Azospirillaceae	Rhodospirillales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	33.0									0.0	0.0

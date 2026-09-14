@@ -1,0 +1,40 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+1643336	0.0217507599184197	105.29542876506989	Mesobacillus maritimus	Mesobacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.9984462538482989	0.9904761904761905
+1523158	0.04393814733438	212.7045712457336	Mesobacillus rigiliprofundi	Mesobacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.9978470793418074	0.0
+40214	0.1625697170006197	787.0	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+40216	0.0128072712249535	62.0	Acinetobacter radioresistens	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2703818	0.0171452179278327	82.99999998863825	Pallidibacillus pasinlerensis	Pallidibacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.9999999998556913	0.9759036144578314
+251051	0.0696137161742169	336.99999999938416	Pallidibacillus thermolactis	Pallidibacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	0.9999999999981725	0.9436201780415431
+1471761	0.0968808097500516	469.0	Novibacillus thermophilus	Novibacillus	Thermoactinomycetaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+2082188	0.0388539985492183	188.0922069767658	Sphingobium sp. YG1	Sphingobium	Sphingobiaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.89143226055339	0.004739336492890996
+1007511	0.0047320373937687	22.907793023234728	Sphingobium limneticum	Sphingobium	Sphingobiaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.0	0.0
+2740529	0.0383168124860949	185.49168924518543	Microvirga terrae	Microvirga	Methylobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.6801140706272025	0.0038461538461538464
+2807101	0.0205553213705462	99.5083107548145	Microvirga sp. VF16	Microvirga	Methylobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.6535187647154933	0.04
+400777	0.0020656889072505	10.0	Paenibacillus ginsengarvi	Paenibacillus	Paenibacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+1776391	0.1024060506920667	495.7476914002952	Romboutsia timonensis	Romboutsia	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota	Bacteria	EMU	0.8915898549918866	0.12290502793296089
+1278212	0.0477174137574881	231.0	Arcobacter suis	Arcobacter	Arcobacteraceae	Campylobacterales	Epsilonproteobacteria	Campylobacterota	Bacteria	EMU	1.0	1.0
+3047874	0.0322247469533514	156.00000000117416	Neobacillus sp. YX16	Neobacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+2588497	0.0020989821759339	10.161172713696368	Noviherbaspirillum aerium	Noviherbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9272057714673541	0.0
+3080276	0.0110322481610078	53.40711334743892	Noviherbaspirillum album	Noviherbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9280460396194897	0.0
+1260987	0.0281825478080695	136.43171393886465	Noviherbaspirillum malthae	Noviherbaspirillum	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	0.986084011804884	0.0
+28101	0.0237554224333815	115.0	Phyllobacterium myrsinacearum	Phyllobacterium	Phyllobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+1325120	0.0039625229054475	19.18257338527178	Bradyrhizobium sp. CCBAU 53421	Bradyrhizobium	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.0	0.0
+280333	0.0039625229054475	19.18257338527178	Bradyrhizobium pachyrhizi	Bradyrhizobium	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.0	0.0
+29448	0.0122113572315639	59.1151803580011	Bradyrhizobium elkanii	Bradyrhizobium	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.33588170657955213	0.0
+1419277	0.0039625229054475	19.18257338527178	Bradyrhizobium brasilense	Bradyrhizobium	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.0	0.0
+208375	0.004332153008808	20.97195271563986	Bradyrhizobium sp. Pha-3	Bradyrhizobium	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.0	0.0
+3344579	0.0039625229054475	19.18257338527178	Bradyrhizobium sp. 8-10B	Bradyrhizobium	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.0	0.0
+2057741	0.0039625229054475	19.18257338527178	Bradyrhizobium sp. SK17	Bradyrhizobium	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.0	0.0
+2724150	0.0046489751959646	22.50568892366496	Romboutsia sp. CE17	Romboutsia	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota	Bacteria	EMU	0.9079131741685781	0.0
+3382641	0.0753976451146457	365.0	Pseudalkalibacillus sp. A8	Pseudalkalibacillus	Fictibacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+1505	0.032998682023557	159.74661967603987	Paraclostridium sordellii	Paraclostridium	Peptostreptococcaceae	Peptostreptococcales	Clostridia	Bacillota	Bacteria	EMU	0.8639050557036162	0.008064516129032258
+1886787	0.0051642222681264	25.0	Sphingomonas olei	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2498847	0.0274736624664325	133.0	Zeimonas arvi	Zeimonas	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2339232	0.0080561867382772	39.0	Vallicoccus soli	Vallicoccus	Vallicoccaceae	Motilibacterales	Actinomycetes	Actinomycetota	Bacteria	EMU	1.0	1.0
+381630	0.0161123734765544	78.0	Methylobacterium jeotgali	Methylobacterium	Methylobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+1562887	0.0076430489568271	37.0	Protofrankia coriariae	Protofrankia	Frankiaceae	Frankiales	Actinomycetes	Actinomycetota	Bacteria	EMU	1.0	1.0
+108981	0.0053707911588514	26.0	Acinetobacter schindleri	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2685937	0.0041313778145011	20.0	Virgibacillus kimchii	Virgibacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	37.0									0.0	0.0

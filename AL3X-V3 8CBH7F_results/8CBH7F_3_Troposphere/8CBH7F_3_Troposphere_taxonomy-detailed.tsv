@@ -1,0 +1,39 @@
+tax_id	abundance	estimated counts	species	genus	family	order	class	phylum	superkingdom	source	mean_confidence	confident_reads_percentage
+2927980	0.0212475719929886	105.21797650927972	Mesoterricola sediminis	Mesoterricola	Holophagaceae	Holophagales	Holophagae	Acidobacteriota	Bacteria	EMU	0.9811053754841325	0.2716049382716049
+3068893	0.0221612485289438	109.7425027153301	Geothrix sp. 21YS21S-2	Geothrix	Holophagaceae	Holophagales	Holophagae	Acidobacteriota	Bacteria	EMU	0.8042574371694088	0.014925373134328358
+162028	0.0183764135702746	91.0	Haliangium tepidum	Haliangium	Kofleriaceae	Haliangiales	Unknown	Myxococcota	Bacteria	EMU	1.0	1.0
+1400979	0.004885059754757	24.19081590555711	Pontibacter diazotrophicus	Pontibacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidota	Bacteria	EMU	0.8632733032176954	0.0
+2791028	0.0060722997587803	30.07002840548017	Pontibacter rufus	Pontibacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidota	Bacteria	EMU	0.8837814269877193	0.2
+2766980	0.0055925446056302	27.69428088708086	Pontibacter aquaedesilientis	Pontibacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidota	Bacteria	EMU	0.8602592185659703	0.0
+2080288	0.1395438572986478	691.0211813429042	Pontibacter arcticus	Pontibacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidota	Bacteria	EMU	0.9925711530422221	0.0
+1424080	0.0218141545757225	108.02369345897796	Pontibacter amylolyticus	Pontibacter	Hymenobacteraceae	Cytophagales	Cytophagia	Bacteroidota	Bacteria	EMU	0.8862259333832613	0.0
+3068889	0.0060661390903453	30.039520775390184	Geothrix sp. 21YS21S-4	Geothrix	Holophagaceae	Holophagales	Holophagae	Acidobacteriota	Bacteria	EMU	0.9752610365077956	0.8
+304	0.1211631663974151	600.0	Roseateles saccharophilus	Roseateles	Sphaerotilaceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+1612172	0.0381663974151857	189.0	Vicinamibacter silvestris	Vicinamibacter	Vicinamibacteraceae	Vicinamibacterales	Vicinamibacteria	Acidobacteriota	Bacteria	EMU	1.0	1.0
+3037797	0.0767366720516962	380.0	Piscinibacter sp. XHJ-5	Piscinibacter	Sphaerotilaceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+2082188	0.0888745082363318	440.1065647863151	Sphingobium sp. YG1	Sphingobium	Sphingobiaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.8523933388685729	0.001937984496124031
+1007511	0.0159316306974314	78.89343521368065	Sphingobium limneticum	Sphingobium	Sphingobiaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9094660232883518	0.0
+40216	0.0193407646599754	95.77546659619829	Acinetobacter radioresistens	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	0.7602131668504382	0.0
+3231720	0.0291245018989907	144.22453340380196	Acinetobacter sp. FL	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	0.633767257912774	0.0
+457921	0.0260500807754442	129.0	Massilia varians	Massilia	Oxalobacteraceae	Burkholderiales	Betaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+28101	0.0518982229402261	257.0	Phyllobacterium myrsinacearum	Phyllobacterium	Phyllobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+40214	0.0892568659127619	441.9999999999971	Acinetobacter johnsonii	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	0.9999999999999934	0.997737556561086
+1404	0.0062600969305331	31.0	Priestia megaterium	Priestia	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+466153	0.097761699848925	484.1159376518767	Singulisphaera acidiphila	Singulisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.9621390659383178	0.005988023952095809
+2029860	0.0029482603988817	14.599785495262386	Tundrisphaera lichenicola	Tundrisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.9989534437091978	0.14285714285714285
+3120278	0.0054689137781177	27.08206102923917	Singulisphaera photorubra	Singulisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.8895113236873405	0.0
+2712865	0.0042815460063856	21.202215823621827	Paludisphaera soli	Paludisphaera	Isosphaeraceae	Isosphaerales	Planctomycetia	Planctomycetota	Bacteria	EMU	0.960709293241796	0.0
+861299	0.0036348949919224	18.0	Gemmatirosa kalamazoonensis	Gemmatirosa	Gemmatimonadaceae	Gemmatimonadales	Gemmatimonadia	Gemmatimonadota	Bacteria	EMU	1.0	1.0
+151414	0.0161550888529886	80.0	Afipia birgiae	Afipia	Nitrobacteraceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+68569	0.0030290791599353	15.0	Sphingomonas leidyi	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+1235480	0.0137318255250403	68.0	Blastocatella fastidiosa	Blastocatella	Blastocatellaceae	Blastocatellales	Blastocatellia	Acidobacteriota	Bacteria	EMU	1.0	1.0
+2057	0.0026252019386106	13.0	Sphaerobacter thermophilus	Sphaerobacter	Sphaerobacteraceae	Sphaerobacterales	Thermomicrobia	Thermomicrobiota	Bacteria	EMU	1.0	1.0
+2267833	0.0143376413570274	71.0	Rhizobium oryzihabitans	Rhizobium	Rhizobiaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+3070683	0.0094911147011308	47.0	Neobacillus sp. OS1-33	Neobacillus	Bacillaceae	Bacillales	Bacilli	Bacillota	Bacteria	EMU	1.0	1.0
+108981	0.0046445880452348	23.00000000000288	Acinetobacter schindleri	Acinetobacter	Moraxellaceae	Moraxellales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+316	0.0036348949919224	18.0	Stutzerimonas stutzeri	Stutzerimonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+186651	0.0060581583198707	30.0	Microvirga subterranea	Microvirga	Methylobacteriaceae	Hyphomicrobiales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+1045317	0.0036348949919224	18.0	Sphingomonas lutea	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Pseudomonadota	Bacteria	EMU	1.0	1.0
+unmapped	0.0	0.0									0.0	0.0
+mapped_filtered	0.0	0.0									0.0	0.0
+mapped_unclassified	0.0	8.0									0.0	0.0
