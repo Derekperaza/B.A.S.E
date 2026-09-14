@@ -1,0 +1,40 @@
+tax_id	abundance	species	genus	family	order	class	phylum	superkingdom	source	estimated counts	mean_confidence	confident_reads_percentage
+358	0.0269709543568464	Agrobacterium tumefaciens	Agrobacterium	Rhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	130.0	1.0	1.0
+73140	0.0935050586982985	Pelomonas_sp.	Pelomonas	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	450.6943829257988	0.9822343555056268	0.004366812227074236
+10003255	0.0031754392270127	Pelomonas saccharophila	Pelomonas	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	15.305617074201422	0.8961189869723023	0.0
+10003216	0.0910179669508981	Sphingobium yanoikuyae	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	438.7066007033292	0.6974314807415406	0.0
+2565554	0.0398704608942666	Sphingobium sp. PAMC28499	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	192.17562151036532	0.648938689966658	0.0
+52021	0.1137565858080159	Halomonas desiderata	Halomonas	Halomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	548.306743594637	0.9991734469045005	0.41467889908256883
+1848458	0.00263345568576	Halomonas saliphila	Halomonas	Halomonadaceae	Oceanospirillales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	12.693256405363382	0.765174060519759	0.0
+190721	0.1628630705394191	Ralstonia insidiosa	Ralstonia	Burkholderiaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	785.0	1.0	1.0
+1608614	0.004356846473029	Modestobacter muralis	Modestobacter	Geodermatophilaceae	Geodermatophilales	Actinobacteria	Actinobacteria	Bacteria	EMU	21.0	1.0	1.0
+73368	0.037759336099585	Steroidobacteraceae_X_sp.	Steroidobacteraceae_X	Steroidobacteraceae	Steroidobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	182.0	1.0	1.0
+374432	0.0188796680497925	Methylobacterium tardum	Methylobacterium	Methylobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	91.0	1.0	1.0
+73361	0.0109728489171708	Pseudomonas_sp.	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	52.88913178076358	0.9663512375007577	0.8571428571428571
+72816	0.0245745974539932	Hyphomicrobium_sp.	Hyphomicrobium	Hyphomicrobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	118.44955972824732	0.7569104080387099	0.025974025974025976
+717785	0.0409855685211105	Hyphomicrobium sp. MC1	Hyphomicrobium	Hyphomicrobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	197.5504402717528	0.748253312513529	0.0
+10003608	0.0026130430246132	Pseudomonas monteilii	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	12.59486737863568	0.8092856580002122	0.0
+1654716	0.0063278008298755	Bradyrhizobium viridifuturi	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	30.5	0.5	0.0
+1904807	0.0063278008298755	Bradyrhizobium mercantei	Bradyrhizobium	Bradyrhizobiaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	30.5	0.0	0.0
+2018067	0.0301520463514824	Pseudomonas sp. FDAARGOS_380	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	145.33286341414524	0.6201865318368699	0.0
+10003594	0.0166362847711821	Pseudomonas azotoformans	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	80.18689259709771	0.5812902413691212	0.0
+2493669	0.0568464730290456	Mesorhizobium sp. M1D.F.Ca.ET.043.01.1.1	Mesorhizobium	Phyllobacteriaceae	Rhizobiales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	274.0	1.0	1.0
+445220	0.0122406639004149	Reyranella massiliensis	Reyranella	Unknown	Rhodospirillales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	59.0	1.0	1.0
+10003058	0.0255186721991701	Brevundimonas bullata	Brevundimonas	Caulobacteraceae	Caulobacterales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	123.0	1.0	1.0
+2060307	0.0024896265560165	Enterococcus sp. FDAARGOS_375	Enterococcus	Enterococcaceae	Lactobacillales	Bacilli	Firmicutes	Bacteria	EMU	12.0	1.0	1.0
+1796922	0.0396265560165975	Piscinibacter defluvii	Piscinibacter	Unknown	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	191.0	1.0	1.0
+1931241	0.0043560673919829	Pseudomonas sp. S-6-2	Pseudomonas	Pseudomonadaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	20.9962448293578	0.9998211823503714	0.0
+80866	0.0182572614107883	Delftia acidovorans	Delftia	Comamonadaceae	Burkholderiales	Betaproteobacteria	Proteobacteria	Bacteria	EMU	88.0	1.0	1.0
+2082188	0.0174518211174905	Sphingobium sp. YG1	Sphingobium	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	84.1177777863042	0.9997801744013897	0.9880952380952381
+3966	0.0178423236514522	Trebouxia_aggregata	Trebouxia	Microthamniales_X	Microthamniales	Trebouxiophyceae	Chlorophyta	Eukaryota	PR2	86.0	1.0	1.0
+3966	0.0178423236514522	Trebouxia_aggregata:plas	Trebouxia:plas	Microthamniales_X:plas	Microthamniales:plas	Trebouxiophyceae:plas	Chlorophyta:plas	Eukaryota:plas	PR2	86.0	1.0	1.0
+73105	0.0039419087136929	Comamonas_sp.	Comamonas	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	19.0	1.0	1.0
+54007	0.0273858921161825	Anaerococcus octavius	Anaerococcus	Peptoniphilaceae	Tissierellales	Tissierellia	Firmicutes	Bacteria	EMU	132.0	1.0	1.0
+73090	0.0238589211618257	Acidovorax_sp.	Acidovorax	Burkholderiaceae	Betaproteobacteriales	Gammaproteobacteria	Proteobacteria	Bacteria	PR2	115.0	1.0	1.0
+72944	0.0020747335551877	Sphingomonas_sp.	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	PR2	10.000215736005025	1.0	1.0
+862134	0.0035269261958495	Sphingomonas ginsenosidimutans	Sphingomonas	Sphingomonadaceae	Sphingomonadales	Alphaproteobacteria	Proteobacteria	Bacteria	EMU	16.999784263994965	0.9999873096467629	0.0
+158836	0.0062240663900414	Enterobacter hormaechei	Enterobacter	Enterobacteriaceae	Enterobacterales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	30.0	1.0	1.0
+36809	0.0029045643153526	Mycobacteroides abscessus	Mycobacteroides	Mycobacteriaceae	Corynebacteriales	Actinobacteria	Actinobacteria	Bacteria	EMU	14.0	1.0	1.0
+10003577	0.0020746887966804	Acinetobacter radioresistens	Acinetobacter	Moraxellaceae	Pseudomonadales	Gammaproteobacteria	Proteobacteria	Bacteria	EMU	10.0	1.0	1.0
+unmapped	0.0									1.0	0.0	0.0
+mapped_unclassified	0.0									62.0	0.0	0.0
